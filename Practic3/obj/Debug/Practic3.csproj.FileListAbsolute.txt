@@ -1,0 +1,6 @@
+C:\Users\nfrol\source\repos\Practic3Tests\Practic3\bin\Debug\Practic3.dll
+C:\Users\nfrol\source\repos\Practic3Tests\Practic3\bin\Debug\Practic3.pdb
+C:\Users\nfrol\source\repos\Practic3Tests\Practic3\obj\Debug\Practic3.csproj.AssemblyReference.cache
+C:\Users\nfrol\source\repos\Practic3Tests\Practic3\obj\Debug\Practic3.csproj.CoreCompileInputs.cache
+C:\Users\nfrol\source\repos\Practic3Tests\Practic3\obj\Debug\Practic3.dll
+C:\Users\nfrol\source\repos\Practic3Tests\Practic3\obj\Debug\Practic3.pdb
